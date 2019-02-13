@@ -1,0 +1,6 @@
+2019/02/12 22:32:31 [error] 8020#17712: *1 CreateFile() "E:\nginx-server-web-12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2019/02/12 22:37:07 [notice] 19160#15120: signal process started
+2019/02/12 22:50:38 [error] 20544#16068: *17 CreateFile() "E:\nginx-server-web-12/html/dist/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/index.html HTTP/1.1", host: "127.0.0.1"
+2019/02/12 23:27:05 [error] 20544#16068: *27 CreateFile() "E:\nginx-server-web-12/html/dist/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /dist/index.html HTTP/1.1", host: "127.0.0.1"
+2019/02/12 23:27:05 [error] 20544#16068: *27 CreateFile() "E:\nginx-server-web-12/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/dist/index.html"
+2019/02/12 23:27:53 [notice] 15072#7844: signal process started
